@@ -1,0 +1,22 @@
+{
+  "name": "qatouch-reporter",
+  "version": "1.6.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahilanm/sample-qatouch-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahilanm/sample-qatouch-cypress/issues"
+  },
+  "homepage": "https://github.com/Ahilanm/sample-qatouch-cypress#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
