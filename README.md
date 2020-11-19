@@ -10,7 +10,7 @@ Pushes test results into QA Touch system.
 ## Installation
 
 ```shell
-$ npm i qatouch-reporter
+$ npm i cypress-qatouch-reporter
 ```
 
 ## Usage
