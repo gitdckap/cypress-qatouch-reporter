@@ -21,7 +21,7 @@ Add reporter to cypress.json file:
 ```Javascript
 
     ...
-    "reporter": "qatouch-reporter",
+    "reporter": "cypress-qatouch-reporter",
     "reporterOptions": {
         "domain" : "your-domain",
         "apiToken": "your-token",
