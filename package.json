@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "spec",
+    "qatouch",
+    "reporter",
+    "cypressio",
+    "cypressio-plugin",
+    "cypressio-reporter"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gitdckap/cypress-qatouch-reporter.git"
